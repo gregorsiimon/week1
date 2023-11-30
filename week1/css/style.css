@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+body{
+    background-color: grey;
+}
+.container{
+    text-align: center;
+}
+#profile-info{
+    list-style: none;
+    padding-inline-start: 0;
+}
+#footer{
+    position: fixed;
+    bottom: 0%;
+}
+
+span{
+    font-family: "Black Ops One", serif;
+    font-weight: bold;
+}
+
+li{
+    font-family: "Black Ops One", serif;
+    font-weight: bold;
+}
+
+h3{
+    font-family: "Black Ops One", serif;
+}
+
+button{
+    background-color: lightyellow;
+    font-family: "Black Ops One", serif;
+}
